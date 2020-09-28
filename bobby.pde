@@ -193,7 +193,7 @@ void plane(int x, int y) {
   fill(39, 105, 137);
   text("Alan", -90, 95);
 
-  // Independent Research: https://processing.org/examples/textrotation.html
+  // https://processing.org/examples/textrotation.html
 
   float angle2 = radians(-60);
   rotate(angle2);
